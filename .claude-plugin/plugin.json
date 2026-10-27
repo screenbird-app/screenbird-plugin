@@ -1,0 +1,25 @@
+{
+  "name": "screenbird",
+  "displayName": "Screenbird",
+  "version": "1.0.0",
+  "description": "Manage Screenbird digital signage screens: see what is live, put content on a screen and create designs.",
+  "author": {
+    "name": "Screenbird",
+    "url": "https://screenbird.app"
+  },
+  "homepage": "https://screenbird.app/en/help/getting-started/claude-chatgpt",
+  "repository": "https://github.com/screenbird-app/screenbird-plugin",
+  "license": "MIT",
+  "keywords": [
+    "digital signage",
+    "screens",
+    "displays",
+    "menu boards",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://screenbird.app/en/help/getting-started/claude-chatgpt",
+  "supportUrl": "https://screenbird.app/en/help",
+  "privacyPolicyUrl": "https://screenbird.app/en/privacy",
+  "termsOfServiceUrl": "https://screenbird.app/en/terms"
+}

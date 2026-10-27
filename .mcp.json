@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "screenbird": { "type": "http", "url": "https://mcp.screenbird.app/mcp" }
+  }
+}

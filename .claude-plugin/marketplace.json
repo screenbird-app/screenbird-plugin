@@ -1,0 +1,15 @@
+{
+  "name": "screenbird",
+  "description": "Manage Screenbird digital signage screens: see what is live, put content on a screen and create designs.",
+  "owner": {
+    "name": "Screenbird",
+    "url": "https://screenbird.app"
+  },
+  "plugins": [
+    {
+      "name": "screenbird",
+      "source": "./",
+      "description": "Manage Screenbird digital signage screens: see what is live, put content on a screen and create designs."
+    }
+  ]
+}
